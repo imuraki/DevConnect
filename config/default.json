@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://akhildevconnect:akhildevconnect@cluster1-peh0j.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtPrivateKey": "mySecureKey"
+}
