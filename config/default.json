@@ -1,4 +1,6 @@
 {
   "mongoURI": "mongodb+srv://akhildevconnect:akhildevconnect@cluster1-peh0j.mongodb.net/test?retryWrites=true&w=majority",
-  "jwtPrivateKey": "mySecureKey"
+  "jwtPrivateKey": "mySecureKey",
+  "githubClientId": "c7ef9ebe2a5ac023edf3",
+  "githubSecret": "3ab4026e23568baa996c49979e12f3e7f5082bf2"
 }
